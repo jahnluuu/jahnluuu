@@ -1,16 +1,16 @@
-## Hi there 👋
+👋 Hello, I'm John Luis Pepito!
 
-<!--
-**jahnluuu/jahnluuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
+🎓 3rd-year BSIT student at the Cebu Institute of Technology - University
+💡 Passionate about technology and web development  
+📚 Interested in React, Java, Spring Boot, and Django  
 
-Here are some ideas to get you started:
+🛠️ Tech Stack
+🔹 **Frontend:** React.js, Material-UI, Tailwind CSS  
+🔹 **Backend:** Spring Boot, Django, Node.js  
+🔹 **Database:** MySQL
+🔹 **Tools & Others:** Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Connect with Me
+🔹 Email: luis.pepito789@gmail.com
+
