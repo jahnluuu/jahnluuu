@@ -1,7 +1,7 @@
 👋 Hello, I'm John Luis Pepito!
 
 🚀 About Me
-🎓 3rd-year BSIT student at the Cebu Institute of Technology - University
+🎓 4rd-year BSIT student at the Cebu Institute of Technology - University
 💡 Passionate about technology and web development  
 📚 Interested in React, Java, Spring Boot, and Django  
 
